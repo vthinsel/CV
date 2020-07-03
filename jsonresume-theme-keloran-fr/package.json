@@ -1,0 +1,30 @@
+{
+  "name": "jsonresume-theme-keloran-fr",
+  "version": "1.1.0",
+  "description": "A translation of Keloran in french",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre ZANNI",
+  "license": "MIT",
+  "dependencies": {
+    "gravatar": "^1.0.6",
+    "lodash": "^2.4.1",
+    "mustache": "^2.2.1",
+    "resume-cli": "^1.2.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noraj1337/jsonresume-theme-keloran_fr.git"
+  },
+  "keywords": [
+    "json",
+    "jsonresume",
+    "theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/noraj1337/jsonresume-theme-keloran_fr/issues"
+  },
+  "homepage": "https://github.com/noraj1337/jsonresume-theme-keloran_fr"
+}

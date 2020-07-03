@@ -6,7 +6,6 @@
        "image":"",
        "email":"vincent@thinselin.net",
        "phone":"+33 6 81 93 25 21",
-       "url":"",
        "summary":"Passionné par la technique, je décline les technologies pour apporter aux utilisateurs efficacité, sérénité et confiance. L'accompagnement, le transfert du savoir, l'appropriation des outils et process par les équipes sont les clés de la réussite. L'évangélisation, la communication et les échanges sont pour moi une nécessité.",
        "location":{
           "address":"22 rue des Goélands",
@@ -312,7 +311,6 @@
        }
     ],
     "projects":[
- 
     ],
     "meta": {
       "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
