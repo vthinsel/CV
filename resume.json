@@ -1,321 +1,321 @@
 {
-   "basics": {
-   "name": "Vincent Thinselin",
-   "label": "Architecte Technique Senior - DevOPS & Cloud Engineering",
-   "email": "vincent@thinselin.net",
-   "phone": "+33 6 81 93 25 21",
-   "summary": "Passionné par la technique, je décline les technologies pour apporter aux utilisateurs efficacité, sérénité et confiance. L'accompagnement, le transfert du savoir, l'appropriation des outils et process par les équipes sont les clés de la réussite. L'évangélisation, la communication et les échanges sont pour moi une nécessité.",
-   "picture": "https://github.com/vthinsel/CV/blob/master/f9b0d09a9be3dfa29d01b031a73fdb68.jpeg?raw=true",
-   "location": {
-     "address": "22 rue des Goélands",
-     "postalCode": "34750",
-     "city": "Villeneuve-Lès-Maguelone",
-     "countryCode": "FR",
-     "region": "Occitanie"
-   },
-   "profiles": [
-     {
-       "network": "LinkedIn",
-       "username": "vthinselin",
-       "url": "https://www.linkedin.com/in/vthinselin/"
-     }
-   ]
- },
- "work": [
-   {
-     "company": "Cloud Communications division of NTT (anciennement Arkadin)",
-     "highlights": [
-       "Mise en place de gouvernance et de process pour une bonne gestion du cloud publique",
-       "Mise en place de connectivité transverse cloud/sur-site en assurant la sécurité",
-       "Passage en Infrastructure-As-Code du socle d'exécution"
-     ],
-     "position": "Ingénieur/Architecte Technique Senior",
-     "startDate": "2017-06-02",
-     "summary": "Consolidation, optimisation et mutualisation des moyens de Production.\r\nDéfinition et implémentation d'environnements hybrides sur des clouds publiques",
-     "url": "https://www.linkedin.com/company/11237"
-   },
-   {
-     "company": "Arkadin",
-     "endDate": "2017-06-01",
-     "highlights": [
-       "Evangélisation DevOPS",
-       "Re-factoring et optimisation d'applications historiques"
-     ],
-     "position": "Architecte Technique Senior",
-     "startDate": "2014-02-28",
-     "summary": "Définition d'Architectures robustes et évolutives pour les applications du portofolio d'Arkadin. Impleméntation des Architectures et transition vers les Opérations.\r\nDéfinition et mise en place des bonnes pratiques autour de la virtualisation.\r\nSupport niveau 4 et plus",
-     "url": "https://www.linkedin.com/company/11237"
-   },
-   {
-     "company": "Arkadin",
-     "endDate": "2014-02-28",
-     "highlights": [
-       "Déploiement et gestion d'un environnement complet iso-production"
-     ],
-     "position": "Integration Team Manager",
-     "startDate": "2011-06-01",
-     "summary": "Création de l'équipe d'Intégration visant à valider les multiples composants applicatifs en provenance des différentes équipes.\r\nGestion Agile de l'équipe en Kanban.\r\nIntroduction de l'automatisation des tests",
-     "url": "https://www.linkedin.com/company/11237"
-   },
-   {
-     "company": "Arkadin",
-     "endDate": "2011-06-01",
-     "highlights": [
-       "Mise en place de procédures ITIL pour aller vers du Service Management"
-     ],
-     "position": "Engineering Team Manager",
-     "startDate": "2009-01-03",
-     "summary": "Création de l'équipe de Service Management afin de sécuriser les processus de mise en production et d'exploitation",
-     "url": "https://www.linkedin.com/company/11237"
-   },
-   {
-     "company": "AltéOS",
-     "endDate": "2008-12-31",
-     "highlights": [
-       "Projet de gestion des flux entrants dématérialisés (GED-GFE)"
-     ],
-     "position": "Chef de Projet Technique",
-     "startDate": "2007-03-01",
-     "summary": "Aide au pilotage technique de projets pour le client UNEDIC/Pôle emploi\r\nSuivi de la production, gestion des incidents et changements."
-   },
-   {
-     "company": "Genesys Conferencing",
-     "endDate": "2007-02-28",
-     "highlights": [
-       "Qualification des nouvelles versions",
-       "Rédaction de plans de tests"
-     ],
-     "position": "Ingénieur VoIP",
-     "startDate": "2006-02-28",
-     "summary": "Ingénierie Systèmes et Tests au sein de la R&D des solutions VoIP",
-     "url": "https://www.linkedin.com/company/273610"
-   },
-   {
-     "company": "Volvo IT",
-     "endDate": "2006-01-31",
-     "highlights": [
-       "Migration mondiale d'utilisateurs vers les nouveaux services",
-       "Optimisation globale des coûts"
-     ],
-     "position": "Project/Product Manager",
-     "startDate": "2003-02-01",
-     "summary": "Responsable de Produits de collaboration temps réel\r\nDéveloppemetn de nouvelles offres\r\nSuivi de l'usage et facturation/reporting\r\nGestion d'équipe de développement out-sourcées\r\nConsulting méthodologies PMI/CAMP pour aider les clients du groupe",
-     "url": "https://www.linkedin.com/company/volvo-group/"
-   },
-   {
-     "company": "Cap Gemini Telecom",
-     "endDate": "2003-01-31",
-     "highlights": [
-       "Support niveau 2/3 en régie dans des NOC",
-       "Formation des utilisateurs aux produits et applications déployées"
-     ],
-     "position": "Ingénieur Télécom",
-     "startDate": "1999-09-01",
-     "summary": "Mise en place du modèle FCAPS pour des opérateurs de télécommunication, principalement à l'étranger.",
-     "url": "https://www.linkedin.com/company/capgemini/"
-   }
- ],
- "volunteer": [],
- "education": [
-   {
-     "institution": "ENSIMAG/ENSERG - INPG Grenoble",
-     "area": "Architecture des Systèmes de Traitement des Données",
-     "studyType": "Ingénieur",
-     "startDate": "1997-09-01",
-     "endDate": "1999-07-01",
-     "gpa": "",
-     "courses": []
-   },
-   {
-     "institution": "Université Pierre et Marie Curie (Paris VI)",
-     "area": "Architecture des Systèmes de Traitement des Données",
-     "studyType": "Maîtrise",
-     "startDate": "1996-09-01",
-     "endDate": "1997-07-01",
-     "gpa": "",
-     "courses": []
-   }
- ],
- "awards": [
-   {
-     "title": "TOGAF® 9 Foundation",
-     "date": "2021-02-05",
-     "awarder": "The Open Group",
-     "summary": "Framework d'Architecture pour l'Entreprise - https://www.youracclaim.com/badges/ff39a623-4892-4691-bd14-1f668a9eae62/public_url"
-   },
-   {
-     "title": "Microsoft Certified: Azure Fundamentals",
-     "date": "2019-10-03",
-     "awarder": "Microsoft",
-     "summary": "https://www.youracclaim.com/badges/82ad0c2e-f213-4c76-a6d3-d462d3f8d3ca/linked_in_profile"
-   },
-   {
-     "title": "VCP 6.5 – Data Center Virtualization",
-     "date": "2018-03-01",
-     "awarder": "VMWare",
-     "summary": "https://www.youracclaim.com/badges/71902316-187c-4335-aef3-a6b0f82dcef0/linked_in_profile"
-   }
- ],
- "publications": [],
- "skills": [
-   {
-     "name": "Virtualisation",
-     "level": "Master",
-     "rating": 5,
-     "keywords": [
-       "VMWare",
-       "Hyper-V"
-     ]
-   },
-   {
-     "name": "Conteneurs",
-     "level": "Intermediate",
-     "keywords": [
-       "Docker",
-       "Kubernetes",
-       "Rancher",
-       "Openshift"
-     ]
-   },
-   {
-     "name": "Cloud Computing",
-     "level": "Advanced",
-     "keywords": [
-       "Azure",
-       "AWS",
-       "On-prem"
-     ]
-   },
-   {
-     "name": "Réseau",
-     "level": "Intermediate",
-     "keywords": [
-       "TCP/IP",
-       "WAN",
-       "LAN",
-       "SDN"
-     ]
-   },
-   {
-     "name": "Automatisation",
-     "level": "Advanced",
-     "keywords": [
-       "Ansible",
-       "Terraform",
-       "CI/CD"
-     ]
-   },
-   {
-     "name": "Langages",
-     "level": "Intermediate",
-     "keywords": [
-       "Python",
-       "Powershell",
-       "GO",
-       "HCL"
-     ]
-   },
-   {
-     "name": "Base de données",
-     "level": "Intermediate",
-     "keywords": [
-       "SGBD-R",
-       "NoSQL"
-     ]
-   },
-   {
-     "name": "Data Center",
-     "level": "Advanced",
-     "keywords": [
-       "Compute",
-       "Storage",
-       "Network",
-       "IaaS",
-       "PaaS"
-     ]
-   },
-   {
-     "name": "Architecture",
-     "level": "Advanced",
-     "keywords": [
-       "Architecture d'Entreprise",
-       "Application Architecture",
-       "Solution Architecture",
-       "System Architecture"
-     ]
-   },
-   {
-     "name": "VoIP",
-     "level": "Advanced",
-     "keywords": [
-       "SIP",
-       "SBC",
-       "Gateways"
-     ]
-   },
-   {
-     "name": "Operating Systems",
-     "level": "Advanced",
-     "keywords": [
-       "Linux",
-       "Windows"
-     ]
-   },
-   {
-     "name": "Methodologies & Frameworks",
-     "level": "Advanced",
-     "keywords": [
-       "Agilité (scrum),kanban",
-       "DevOPS",
-       "ITIL",
-       "TOGAF"
-     ]
-   }
- ],
- "languages": [
-   {
-     "language": "Français",
-     "fluency": "Langue maternelle"
-   },
-   {
-     "language": "Anglais",
-     "fluency": "Bilingue"
-   },
-   {
-     "language": "Espagnol",
-     "fluency": "Scolaire"
-   }
- ],
- "interests": [
-   {
-     "name": "Electronique",
-     "keywords": [
-       "IoT",
-       "Domotique"
-     ]
-   },
-   {
-     "name": "Sport",
-     "keywords": [
-       "Course à pied",
-       "Ski"
-     ]
-   }
- ],
- "references": [
-   {
-     "name": "Philippe Joigneault",
-     "reference": "With a complete availability, Vincent gave us demonstration of his technical expertise during Project Management in complex VoIP architecture. He has a perfect knowledge of the wide IT-Systems and Networks worlds, and give ,several times, possibilty to perform our architecture and to improve our organization. Vincent owns good human qualities for adaptation and analyse. We've learnt a lot working with him."
-   },
-   {
-     "name": "Vahagn Donabedian",
-     "reference": "Vincent is avery stong and effective project manager. He has at Volvo IT looking for, define and set-up real time collaboration tool based solutions for internal customers. Vincent is very customer oriented and use his technical knowledges to provide easy and simple solutions."
-   }
- ],
- "projects": [],
-   "meta": {
-     "version": "v1.0.0",
-     "lastModified": "2021-02-09T14:00:00",
-     "theme":"paper"
+  "basics": {
+  "name": "Vincent Thinselin",
+  "label": "Architecte Technique Senior - DevOPS & Cloud Engineering",
+  "email": "vincent@thinselin.net",
+  "phone": "+33 6 81 93 25 21",
+  "summary": "Passionné par la technique, je décline les technologies pour apporter aux utilisateurs efficacité, sérénité et confiance. L'accompagnement, le transfert du savoir, l'appropriation des outils et process par les équipes sont les clés de la réussite. L'évangélisation, la communication et les échanges sont pour moi une nécessité.",
+  "picture": "https://github.com/vthinsel/CV/blob/master/f9b0d09a9be3dfa29d01b031a73fdb68.jpeg?raw=true",
+  "location": {
+    "address": "22 rue des Goélands",
+    "postalCode": "34750",
+    "city": "Villeneuve-Lès-Maguelone",
+    "countryCode": "FR",
+    "region": "Occitanie"
+  },
+  "profiles": [
+    {
+      "network": "LinkedIn",
+      "username": "vthinselin",
+      "url": "https://www.linkedin.com/in/vthinselin/"
+    }
+  ]
+},
+"work": [
+  {
+    "company": "Cloud Communications Division of NTT (anciennement Arkadin)",
+    "highlights": [
+      "Mise en place de gouvernance et de process pour une bonne gestion du cloud publique",
+      "Mise en place de connectivité transverse cloud/sur-site en assurant la sécurité",
+      "Passage en Infrastructure-As-Code du socle d'exécution"
+    ],
+    "position": "Ingénieur/Architecte Technique Senior",
+    "startDate": "2017-06-02",
+    "summary": "Consolidation, optimisation et mutualisation des moyens de Production.\r\nDéfinition et implémentation d'environnements hybrides sur des clouds publiques",
+    "url": "https://www.linkedin.com/company/11237"
+  },
+  {
+    "company": "Arkadin",
+    "endDate": "2017-06-01",
+    "highlights": [
+      "Evangélisation DevOPS",
+      "Re-factoring et optimisation d'applications historiques"
+    ],
+    "position": "Architecte Technique Senior",
+    "startDate": "2014-02-28",
+    "summary": "Définition d'Architectures robustes et évolutives pour les applications du portofolio d'Arkadin. Impleméntation des Architectures et transition vers les Opérations.\r\nDéfinition et mise en place des bonnes pratiques autour de la virtualisation.\r\nSupport niveau 4 et plus",
+    "url": "https://www.linkedin.com/company/11237"
+  },
+  {
+    "company": "Arkadin",
+    "endDate": "2014-02-28",
+    "highlights": [
+      "Déploiement et gestion d'un environnement complet iso-production"
+    ],
+    "position": "Integration Team Manager",
+    "startDate": "2011-06-01",
+    "summary": "Création de l'équipe d'Intégration visant à valider les multiples composants applicatifs en provenance des différentes équipes.\r\nGestion Agile de l'équipe en Kanban.\r\nIntroduction de l'automatisation des tests",
+    "url": "https://www.linkedin.com/company/11237"
+  },
+  {
+    "company": "Arkadin",
+    "endDate": "2011-06-01",
+    "highlights": [
+      "Mise en place de procédures ITIL pour aller vers du Service Management"
+    ],
+    "position": "Engineering Team Manager",
+    "startDate": "2009-01-03",
+    "summary": "Création de l'équipe de Service Management afin de sécuriser les processus de mise en production et d'exploitation",
+    "url": "https://www.linkedin.com/company/11237"
+  },
+  {
+    "company": "AltéOS",
+    "endDate": "2008-12-31",
+    "highlights": [
+      "Projet de gestion des flux entrants dématérialisés (GED-GFE)"
+    ],
+    "position": "Chef de Projet Technique",
+    "startDate": "2007-03-01",
+    "summary": "Aide au pilotage technique de projets pour le client UNEDIC/Pôle emploi\r\nSuivi de la production, gestion des incidents et changements."
+  },
+  {
+    "company": "Genesys Conferencing",
+    "endDate": "2007-02-28",
+    "highlights": [
+      "Qualification des nouvelles versions",
+      "Rédaction de plans de tests"
+    ],
+    "position": "Ingénieur VoIP",
+    "startDate": "2006-02-28",
+    "summary": "Ingénierie Systèmes et Tests au sein de la R&D des solutions VoIP",
+    "url": "https://www.linkedin.com/company/273610"
+  },
+  {
+    "company": "Volvo IT",
+    "endDate": "2006-01-31",
+    "highlights": [
+      "Migration mondiale d'utilisateurs vers les nouveaux services",
+      "Optimisation globale des coûts"
+    ],
+    "position": "Project/Product Manager",
+    "startDate": "2003-02-01",
+    "summary": "Responsable de Produits de collaboration temps réel\r\nDéveloppemetn de nouvelles offres\r\nSuivi de l'usage et facturation/reporting\r\nGestion d'équipe de développement out-sourcées\r\nConsulting méthodologies PMI/CAMP pour aider les clients du groupe",
+    "url": "https://www.linkedin.com/company/volvo-group/"
+  },
+  {
+    "company": "Cap Gemini Telecom",
+    "endDate": "2003-01-31",
+    "highlights": [
+      "Support niveau 2/3 en régie dans des NOC",
+      "Formation des utilisateurs aux produits et applications déployées"
+    ],
+    "position": "Ingénieur Télécom",
+    "startDate": "1999-09-01",
+    "summary": "Mise en place du modèle FCAPS pour des opérateurs de télécommunication, principalement à l'étranger.",
+    "url": "https://www.linkedin.com/company/capgemini/"
   }
+],
+"volunteer": [],
+"education": [
+  {
+    "institution": "ENSIMAG/ENSERG - INPG Grenoble",
+    "area": "Architecture des Systèmes de Traitement des Données",
+    "studyType": "Ingénieur",
+    "startDate": "1997-09-01",
+    "endDate": "1999-07-01",
+    "gpa": "",
+    "courses": []
+  },
+  {
+    "institution": "Université Pierre et Marie Curie (Paris VI)",
+    "area": "Architecture des Systèmes de Traitement des Données",
+    "studyType": "Maîtrise",
+    "startDate": "1996-09-01",
+    "endDate": "1997-07-01",
+    "gpa": "",
+    "courses": []
+  }
+],
+"awards": [
+  {
+    "title": "TOGAF® 9 Foundation",
+    "date": "2021-02-05",
+    "awarder": "The Open Group",
+    "summary": "Framework d'Architecture pour l'Entreprise - https://www.youracclaim.com/badges/ff39a623-4892-4691-bd14-1f668a9eae62/public_url"
+  },
+  {
+    "title": "Microsoft Certified: Azure Fundamentals",
+    "date": "2019-10-03",
+    "awarder": "Microsoft",
+    "summary": "https://www.youracclaim.com/badges/82ad0c2e-f213-4c76-a6d3-d462d3f8d3ca/linked_in_profile"
+  },
+  {
+    "title": "VCP 6.5 – Data Center Virtualization",
+    "date": "2018-03-01",
+    "awarder": "VMWare",
+    "summary": "https://www.youracclaim.com/badges/71902316-187c-4335-aef3-a6b0f82dcef0/linked_in_profile"
+  }
+],
+"publications": [],
+"skills": [
+  {
+    "name": "Virtualisation",
+    "level": "Master",
+    "rating": 5,
+    "keywords": [
+      "VMWare",
+      "Hyper-V"
+    ]
+  },
+  {
+    "name": "Conteneurs",
+    "level": "Intermediate",
+    "keywords": [
+      "Docker",
+      "Kubernetes",
+      "Rancher",
+      "Openshift"
+    ]
+  },
+  {
+    "name": "Cloud Computing",
+    "level": "Advanced",
+    "keywords": [
+      "Azure",
+      "AWS",
+      "On-prem"
+    ]
+  },
+  {
+    "name": "Réseau",
+    "level": "Intermediate",
+    "keywords": [
+      "TCP/IP",
+      "WAN",
+      "LAN",
+      "SDN"
+    ]
+  },
+  {
+    "name": "Automatisation",
+    "level": "Advanced",
+    "keywords": [
+      "Ansible",
+      "Terraform",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Langages",
+    "level": "Intermediate",
+    "keywords": [
+      "Python",
+      "Powershell",
+      "GO",
+      "HCL"
+    ]
+  },
+  {
+    "name": "Base de données",
+    "level": "Intermediate",
+    "keywords": [
+      "SGBD-R",
+      "NoSQL"
+    ]
+  },
+  {
+    "name": "Data Center",
+    "level": "Advanced",
+    "keywords": [
+      "Compute",
+      "Storage",
+      "Network",
+      "IaaS",
+      "PaaS"
+    ]
+  },
+  {
+    "name": "Architecture",
+    "level": "Advanced",
+    "keywords": [
+      "Architecture d'Entreprise",
+      "Application Architecture",
+      "Solution Architecture",
+      "System Architecture"
+    ]
+  },
+  {
+    "name": "VoIP",
+    "level": "Advanced",
+    "keywords": [
+      "SIP",
+      "SBC",
+      "Gateways"
+    ]
+  },
+  {
+    "name": "Operating Systems",
+    "level": "Advanced",
+    "keywords": [
+      "Linux",
+      "Windows"
+    ]
+  },
+  {
+    "name": "Methodologies & Frameworks",
+    "level": "Advanced",
+    "keywords": [
+      "Agilité (scrum),kanban",
+      "DevOPS",
+      "ITIL",
+      "TOGAF"
+    ]
+  }
+],
+"languages": [
+  {
+    "language": "Français",
+    "fluency": "Langue maternelle"
+  },
+  {
+    "language": "Anglais",
+    "fluency": "Bilingue"
+  },
+  {
+    "language": "Espagnol",
+    "fluency": "Scolaire"
+  }
+],
+"interests": [
+  {
+    "name": "Electronique",
+    "keywords": [
+      "IoT",
+      "Domotique"
+    ]
+  },
+  {
+    "name": "Sport",
+    "keywords": [
+      "Course à pied",
+      "Ski"
+    ]
+  }
+],
+"references": [
+  {
+    "name": "Philippe Joigneault",
+    "reference": "With a complete availability, Vincent gave us demonstration of his technical expertise during Project Management in complex VoIP architecture. He has a perfect knowledge of the wide IT-Systems and Networks worlds, and give ,several times, possibilty to perform our architecture and to improve our organization. Vincent owns good human qualities for adaptation and analyse. We've learnt a lot working with him."
+  },
+  {
+    "name": "Vahagn Donabedian",
+    "reference": "Vincent is avery stong and effective project manager. He has at Volvo IT looking for, define and set-up real time collaboration tool based solutions for internal customers. Vincent is very customer oriented and use his technical knowledges to provide easy and simple solutions."
+  }
+],
+"projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "lastModified": "2021-02-09T14:00:00",
+    "theme":"paper"
+ }
 }
